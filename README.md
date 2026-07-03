@@ -26,10 +26,12 @@ Documentação: /docs
 API: /api
 rotas de : [ Cliente: (usuários), Encomendas, Auth (autenticação) ] estão presentes na sessão de documentação do swagger 
 
-Tecnologias (API desenvolvida com Express JS
-            (Documentação automática pelo swagger
-            (Autenticação de usuários com JWT
-            (Persistência no Postgres, utilizando Sequelize
-
+Tecnologias: 
+# API desenvolvida com Express JS
+# Documentação automática pelo swagger
+# Autenticação de usuários com JWT
+# Persistência no Postgres, utilizando Sequelize
+# Node Js
+# Testes no Postman
 
 
