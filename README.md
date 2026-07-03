@@ -8,13 +8,14 @@ A API tem como responsabilidade a criação cliente em um sistema de entrega de 
   Clonar o repositório
   Executar "npm i"
   criar uma database de conteiner para o swagger popular, para isso fazer um novo arquivo ".env" e preenchendo-o como o exemplo seguir
-    PORT = 3000
-    BD_NAME = db_deliveryjair
-    BD_USER = ????
-    BD_PASSWORD = ????
-    BD_HOST = localhost
-    BD_PORT = 5432
-    JWT_KEY = ???? (importante para operações de validação)
+          
+          PORT = 3000
+          BD_NAME = db_deliveryjair
+          BD_USER = ????
+          BD_PASSWORD = ????
+          BD_HOST = localhost
+          BD_PORT = 5432
+          JWT_KEY = ???? (importante para operações de validação)
 
 # Execução  
    Executar API com "npm run start"
